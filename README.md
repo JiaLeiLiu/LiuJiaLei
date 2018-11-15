@@ -22,7 +22,7 @@ function check(form)/*function to check userid & password*/
  /*the following code checkes whether the entered userid and password are matching*/
  if(form.userid.value == "kellyliu" && form.pswrd.value == "001227")
   {
-    window.open('https://www.w3schools.com/js/tryit.asp?filename=tryjson_array_modify')/*opens the target page while Id & password matches*/
+    window.open('https://jialeiliu.github.io/
   }
  else
  {
